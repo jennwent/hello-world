@@ -1,2 +1,3 @@
 # hello-world
-First repository
+First repository:
+Just thinking about becoming a unicorn.
